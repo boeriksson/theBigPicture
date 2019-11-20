@@ -8078,7 +8078,7 @@ react-dev-utils@^9.1.0:
     strip-ansi "5.2.0"
     text-table "0.2.0"
 
-react-dom@16.12.0:
+react-dom@^16.12.0:
   version "16.12.0"
   resolved "https://npm.kindredgroup.com/artifactory/api/npm/npm-releases-pipeline/react-dom/-/react-dom-16.12.0.tgz#0da4b714b8d13c2038c9396b54a92baea633fe11"
   integrity sha1-DaS3FLjRPCA4yTlrVKkrrqYz/hE=
@@ -8159,7 +8159,7 @@ react-scripts@3.2.0:
   optionalDependencies:
     fsevents "2.0.7"
 
-react@16.12.0:
+react@^16.12.0:
   version "16.12.0"
   resolved "https://npm.kindredgroup.com/artifactory/api/npm/npm-releases-pipeline/react/-/react-16.12.0.tgz#0c0a9c6a142429e3614834d5a778e18aa78a0b83"
   integrity sha1-DAqcahQkKeNhSDTVp3jhiqeKC4M=
@@ -9370,6 +9370,11 @@ text-table@0.2.0, text-table@^0.2.0:
   version "0.2.0"
   resolved "https://npm.kindredgroup.com/artifactory/api/npm/npm-releases-pipeline/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=
+
+three@^0.110.0:
+  version "0.110.0"
+  resolved "https://npm.kindredgroup.com/artifactory/api/npm/npm-releases-pipeline/three/-/three-0.110.0.tgz#8719591de1336269113ee79f4268ba247b2324f8"
+  integrity sha1-hxlZHeEzYmkRPuefQmi6JHsjJPg=
 
 throat@^4.0.0:
   version "4.1.0"
